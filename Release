@@ -1,0 +1,7 @@
+Origin: al3raQe Smart Tv Apps
+Label: al3raQe Smart Tv Apps 
+Suite: stable
+Version: 1.0
+Architectures: iphoneos-arm
+Components: main
+Description: repo
